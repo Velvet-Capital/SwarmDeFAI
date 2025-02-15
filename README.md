@@ -31,7 +31,3 @@ Python implementation of the swarm of AI agents that find, analyze, and execute 
 **Contribute:**
 
 We welcome contributions to improve SwarmDeFAI.  
-
-* [Link to your contribution guidelines]
-
-Let's make blockchain technology accessible and user-friendly for everyone!
