@@ -20,7 +20,7 @@ Python implementation of the swarm of AI agents that find, analyze, and execute 
 
 **Get Started:**
 
-* Clone the repository
+* Clone the repository and install `pip install -r requirements.txt`
 * Configure API keys and settings in the `config` directory.
 * Run `main.py` to start telegram bot.
 * Run `telegram_heartbeat.py` to start the AI swarm.
