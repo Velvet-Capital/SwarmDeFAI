@@ -1,0 +1,41 @@
+{
+    "LAST_TOKENS_FILE": "..",
+    "BASE_API_URL": "https://lunarcrush.com/api4/public/coins/list/v2?sort=alt_rank&limit=100",
+    "TIME_SERIES_API_URL": "https://lunarcrush.com/api4/public/coins/{token_ticker}/time-series/v2?bucket=day&interval=1w",
+    "SOCIAL_API_URL": "https://lunarcrush.com/api4/public/topic/{token_ticker}/v1",
+    "POST_API_URL": "https://lunarcrush.com/api4/public/topic/${token_ticker}/posts/v1",
+    "HEADERS_TOKENS": {
+        "Authorization": "Bearer "
+    },
+    "HEADERS_SOCIAL": {
+        "Authorization": "Bearer "
+    },
+    "HEADERS_TIMESERIES": {
+        "Authorization": "Bearer "
+    },
+    "HEADERS_POST": {
+        "Authorization": "Bearer "
+    },
+    "REQUIRED_CATEGORIES": [
+        "symbol",
+        "name",
+        "price",
+        "volume_24h",
+        "volatility",
+        "circulating_supply",
+        "max_supply",
+        "percent_change_1h",
+        "percent_change_24h",
+        "percent_change_7d",
+        "market_cap",
+        "market_cap_rank",
+        "interactions_24h",
+        "social_volume_24h",
+        "galaxy_score",
+        "galaxy_score_previous",
+        "alt_rank",
+        "alt_rank_previous",
+        "sentiment",
+        "percent_change_30d"
+    ]
+}
