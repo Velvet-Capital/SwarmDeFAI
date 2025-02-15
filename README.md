@@ -1,6 +1,10 @@
 # SwarmDeFAI by Velvet
 Python implementation of the swarm of AI agents that find, analyze, and execute the best crypto opportunities.
 
+**Run the live test:**
+
+* https://t.me/velvet_unicorn_test_bot
+
 **CryptoSimplified** is an innovative Telegram bot built on an OpenAI swarm, designed to bridge the gap between complex blockchain operations and everyday users. 
 
 **Key Features:**
@@ -23,10 +27,6 @@ Python implementation of the swarm of AI agents that find, analyze, and execute 
 * Run `main.py` to start telegram bot.
 * Run `telegram_heartbeat.py` to start the AI swarm.
 * Add the bot to your Telegram group or chat.
-
-**Run the live test:**
-
-* https://t.me/velvet_unicorn_test_bot 
 
 **Contribute:**
 
